@@ -30,10 +30,12 @@
 ### В командной строке в корне проекта запустить поочерёдно команды 4-9
 
 4. php artisan key:generate
-5. php artisan storage:link
-6. php artisan migrate:fresh
-7. php artisan db:seed 
-8. php artisan config:cache
+5. php artisan config:cache
+6. php artisan storage:link
+7. php artisan migrate:fresh
+8. php artisan db:seed
 9. npm run build
+
+### <p>Логин: test@test.ru.</p> Пароль: 12345678
 
 ### <p>P.S. Регистрация доступна только для пользователей из белого списка.</p> Внести их можно в разделе Access_List
